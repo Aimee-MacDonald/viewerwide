@@ -1,9 +1,12 @@
 body{
-  background-color: pink;
   margin: 0;
 }
 
 #container{
-  background-color: purple;
+  width: 60%;
+}
 
+video{
+  width: 100%;
+  height: auto;
 }
